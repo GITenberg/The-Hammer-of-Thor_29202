@@ -1,0 +1,29 @@
+_repo: The-Hammer-of-Thor_29202
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Diffin, Charles Willard
+    birthdate: 1884
+    deathdate: 1966
+    gutenberg_agent_id: '33760'
+    url: http://www.gutenberg.org/2009/agents/33760
+description: Danny O'Rourke saves the planet from a mysterious giant of space.
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2009-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Hammer of Thor
+url: http://www.gutenberg.org/ebooks/29202
