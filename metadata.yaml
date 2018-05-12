@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33760'
     url: http://www.gutenberg.org/2009/agents/33760
 description: Danny O'Rourke saves the planet from a mysterious giant of space.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29202#The-Hammer-of-Thor
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
